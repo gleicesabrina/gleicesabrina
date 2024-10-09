@@ -1,10 +1,8 @@
-###
-
 <h1 align="center">Olá, eu sou Gleice 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim: </h3>
+<h2 align="left">👩‍💻  Sobre mim: </h2>
 
 ###
 
@@ -22,7 +20,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas: </h3>
+<h2 align="left">🛠 Linguagens e Ferramentas: </h2>
 
 ###
 
@@ -52,7 +50,7 @@
 
 ###
 
-<h3 align="left">🔥   Minhas Estatísticas:</h3>
+<h2 align="left">🔥   Minhas Estatísticas:</h2>
 
 ###
 
